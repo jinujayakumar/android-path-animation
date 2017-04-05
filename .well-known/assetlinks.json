@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.example.jinu.dagger2",
+    "sha256_cert_fingerprints":
+    ["46:12:4E:58:1C:DC:08:85:CB:0D:C7:EE:0F:BC:87:68:DC:39:D9:43:C3:D8:BA:4B:E7:00:04:60:6A:B0:3C:13"]
+  }
+}]
